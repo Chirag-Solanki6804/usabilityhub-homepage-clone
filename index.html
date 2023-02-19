@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://kit.fontawesome.com/66c3b6dc4b.css" crossorigin="anonymous">
     <!-- CSS linking -->
     <link rel="stylesheet" href="./style/style.css">
+    <link rel="stylesheet" href="./style/media-queries.css">
 </head>
 
 <body>
@@ -27,7 +28,7 @@
             <a href="##" class="company-logo">
                 <img src="./assets/asset 1.png" alt="company logo">
             </a>
-            <div class="nav-links">
+            <div class="nav-links" id="nav-links">
                 <ul class="flex">
                     <li><a href="#" class="hover-link">Products</a></li>
                     <li><a href="#" class="hover-link">Customers</a></li>
@@ -37,6 +38,7 @@
                     <li><a href="#" class="hover-link primary-button">Sign Up</a></li>
                 </ul>
             </div>
+            <a href="#" class="nav-toggle hover-link" id="nav-toggle"><i class="fa-solid fa-bars"></i></a>
         </div>
     </nav>
 
@@ -139,7 +141,7 @@
     </section>
     <!-- second section -->
     <section class="big-features-section">
-        <div class="container flex big-features-container" style="flex-direction: row-reverse;">
+        <div class="container flex big-features-container" id="second-big-feature">
             <div class="features-img">
                 <img src="./assets/asset 21.png" alt="">
             </div>
@@ -245,6 +247,15 @@
     </div>
 
     <script src="https://kit.fontawesome.com/66c3b6dc4b.js" crossorigin="anonymous"></script>
+
+    <script>
+        const toggleButton = document.getElementById("nav-toggle");
+        const navLinks = document.getElementById("nav-links");
+
+        toggleButton.addEventListener("click", () => {
+            navLinks.classList.toggle("active");
+        });
+    </script>
 </body>
 
 </html>
