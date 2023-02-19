@@ -25,11 +25,7 @@ This is a modern Homepage clone of a website called UsabilityHub., built using H
 
 ## 📌 What I Learn
 
-👉 Learn about how to build Responsive layout using `Grid`.<br>
-👉 Learn more Hover efffect and transition. <br>
-👉 Project use of `background-position` property.<br> 
-👉 How to use `media-query` and make Responsive layout. <br>
-👉 How to Use google font in our Website. <br>
+👉 
 
 
 ## 📬 Connect With Me
@@ -39,5 +35,4 @@ This is a modern Homepage clone of a website called UsabilityHub., built using H
 ## 📌 Acknowledgments
 
 - Instructor  - [Anuj Kumar Sharma](https://github.com/Anuj-Kumar-Sharma)
-- Images Used For Gallery Section - [https://unsplash.com/](https://unsplash.com/s/)
 - This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
