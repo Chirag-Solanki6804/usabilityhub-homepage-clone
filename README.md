@@ -4,7 +4,7 @@ This is a modern Homepage clone of a website called UsabilityHub., built using H
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/responsive-gallery-css-grid/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/usabilityhub-homepage-clone/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -15,19 +15,6 @@ This is a modern Homepage clone of a website called UsabilityHub., built using H
 <br>
 <br>
 
-## 📌 Overview
-
-<br>
-
-![Alt Image text](/assets/output1.png?raw=true "Optional Title")
-![Alt Image text](/assets/output2.png?raw=true "Optional Title")
-
-
-## 📌 What I Learn
-
-👉 
-
-
 ## 📬 Connect With Me
 
 - **LinkedIn** - [Chirag Solanki](https://www.linkedin.com/in/chiragagu6/)
@@ -35,4 +22,3 @@ This is a modern Homepage clone of a website called UsabilityHub., built using H
 ## 📌 Acknowledgments
 
 - Instructor  - [Anuj Kumar Sharma](https://github.com/Anuj-Kumar-Sharma)
-- This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
